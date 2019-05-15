@@ -1,0 +1,9 @@
+.idea/
+.idea/vcs.xml
+venv/
+histogram_features.py
+__pycache__
+build/
+dist/
+heatmap.spec
+heatmap-histogram.zip
